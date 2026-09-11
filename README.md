@@ -12,11 +12,9 @@
 
 ## Enterprise AI & data architecture
 
-I'm **Atik L.**, an **AI Platform & Solutions Architect** with **10+ years delivering data platforms and leading engineering work for major enterprises in banking, insurance and energy**.
+I'm **Atik L.**, an **AI Platform & Solutions Architect** with **10+ years of enterprise delivery** across banking, insurance and energy.
 
-My experience spans payment processing, financial crime controls, actuarial reporting and electricity consumption data. I bring that production background to enterprise AI: connecting business requirements with architecture decisions, implementation and the realities of operating a shared service.
-
-**I help teams put AI to work in critical business processes—with explicit controls over data, cost and execution.**
+I combine architecture, technical leadership and hands-on engineering to connect business needs with reliable data and AI systems. My focus today is **LLM platforms, inference and agentic workflows**, grounded in enterprise data and the demands of production.
 
 ## Professional track record
 
@@ -28,16 +26,6 @@ My experience spans payment processing, financial crime controls, actuarial repo
 | **Procurement & B2B** | Lead AI and data engineering for a procurement platform across multiple countries, including LLM enrichment and retrieval over enterprise data. |
 
 [Selected experience and case studies →](https://atiklhy.fr/en/portfolio/)
-
-## Current work: enterprise AI platforms
-
-At a **Tier-1 EU bank**, I work across business use cases, shared AI platforms and engineering teams. My remit covers solution architecture, model selection and implementation guidance, with direct contributions to code, production investigations and service improvements.
-
-- **Architecture and adoption:** translate use cases into data, model and tool integrations; assess capability, cost and operational constraints.
-- **Shared service controls:** contribute budgets, quotas, rate limits and tool-calling integrations that make AI services usable across teams.
-- **Production engineering:** investigate reliability and scaling issues, contribute fixes alongside platform owners, and participate in the operational support rotation.
-
-Alongside client delivery, I develop and test reference implementations for agent workflows, evaluation and failure recovery.
 
 ## Open-source engineering
 
