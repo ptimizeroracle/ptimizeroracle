@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Atik Lahiyane — AI Platform and Solutions Architect. LLM platforms, agentic workflows and data engineering." />
+  <img src="./assets/header.svg" width="100%" alt="Atik Lahiyane — AI Platform and Solutions Architect. Enterprise delivery, technical leadership and critical systems." />
 </p>
 
 <p align="center">
@@ -10,51 +10,52 @@
   <a href="mailto:contact@binblok.com"><b>Email</b></a>
 </p>
 
-## About me
+## Enterprise AI & data architecture
 
-I'm **Atik**, an **AI Platform & Solutions Architect** with a background in senior data engineering and technical leadership.
+I'm **Atik Lahiyane**, an **AI Platform & Solutions Architect** with **10+ years delivering data platforms and leading engineering work for major enterprises in banking, insurance and energy**.
 
-I connect business use cases with the engineering needed to run them: model selection, enterprise data, tool integration, cost controls and production reliability. My work combines architecture, code contributions, troubleshooting and collaboration with platform teams.
+My experience spans payment processing, financial crime controls, actuarial reporting and electricity consumption data. I bring that production background to enterprise AI: connecting business requirements with architecture decisions, implementation and the realities of operating a shared service.
 
-**I make AI operational in critical business processes without giving up control.**
+**I help teams put AI to work in critical business processes—with explicit controls over data, cost and execution.**
 
-- **Building:** [Ondine](https://github.com/ptimizeroracle/ondine), an open-source engine for enriching tabular data with LLMs.
-- **Working on:** shared LLM platforms, bounded agentic workflows and AI grounded in enterprise data.
-- **Exploring:** evaluation, recovery, tool permissions and the cost of completing a task successfully.
-- **Based in:** Paris, France. Working in English and French.
+## Professional track record
 
-## Engineering focus
-
-| Area | What I work on |
+| Sector | Responsibility and delivery |
 | :--- | :--- |
-| **LLM platforms** | Model selection, shared access, routing, budgets, quotas and rate limits. |
-| **Agentic workflows** | Tool contracts, bounded actions, human approvals and recovery from failed steps. |
-| **Data & AI** | Data platforms, structured enrichment, retrieval and data quality. |
-| **Production reliability** | Troubleshooting, scaling analysis, observability, evaluations and service improvements. |
+| **Banking & payments** | Data and ML engineering for payment processing, cross-border payment tracking, sanctions screening and fraud detection. |
+| **Insurance & actuarial** | Technical leadership across data and AI engineering. Ownership of an IFRS 17 centralization engine, legacy processing modernization and shared data infrastructure. |
+| **Energy & utilities** | Lead data engineering and data lake architecture for electricity consumption, forecasting and operational analytics. |
+| **Procurement & B2B** | Lead AI and data engineering for a procurement platform across multiple countries, including LLM enrichment and retrieval over enterprise data. |
 
-## Featured work
+[Selected experience and case studies →](https://atiklhy.fr/en/portfolio/)
 
-<table>
-<tr>
-<td colspan="2" valign="top">
-<h3><a href="https://github.com/ptimizeroracle/ondine">🌊 Ondine</a></h3>
-<p><b>LLM enrichment for tabular data.</b> Turn prompts into structured columns, with schema validation, checkpointing, budget limits and cost tracking.</p>
-<p><a href="https://github.com/ptimizeroracle/ondine">Repository</a> · <a href="https://docs.ondine.dev/">Documentation</a> · <a href="https://pypi.org/project/ondine/">PyPI</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/ptimizeroracle/financial-data-engineering-demo">Financial data engineering</a></h3>
-<p>A local demonstration of financial-message ingestion, feature engineering and anomaly scoring using synthetic transactions.</p>
-<p><sub>Demonstration · Python · Streaming · PostgreSQL</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/ptimizeroracle/brand-performance-dashboard">Brand analytics platform</a></h3>
-<p>A reproducible analytics pipeline connecting data normalization, dimensional modeling and an interactive dashboard.</p>
-<p><sub>Demonstration · DuckDB · SQL · Streamlit</sub></p>
-</td>
-</tr>
-</table>
+## Current work: enterprise AI platforms
+
+At a **Tier-1 EU bank**, I work across business use cases, shared AI platforms and engineering teams. My remit covers solution architecture, model selection and implementation guidance, with direct contributions to code, production investigations and service improvements.
+
+- **Architecture and adoption:** translate use cases into data, model and tool integrations; assess capability, cost and operational constraints.
+- **Shared service controls:** contribute budgets, quotas, rate limits and tool-calling integrations that make AI services usable across teams.
+- **Production engineering:** investigate reliability and scaling issues, contribute fixes alongside platform owners, and participate in the operational support rotation.
+
+Alongside client delivery, I develop and test reference implementations for agent workflows, evaluation and failure recovery.
+
+## Open-source engineering
+
+### [Ondine](https://github.com/ptimizeroracle/ondine)
+
+**An engine for enriching tabular data with LLMs.** Turn prompts into structured columns, with schema validation, checkpointing, budget limits and cost tracking.
+
+[Repository](https://github.com/ptimizeroracle/ondine) · [Documentation](https://docs.ondine.dev/) · [PyPI](https://pypi.org/project/ondine/)
+
+<details>
+<summary><b>Explore two public engineering demonstrations</b></summary>
+
+- [**Financial data engineering**](https://github.com/ptimizeroracle/financial-data-engineering-demo) — financial-message ingestion, feature engineering and anomaly scoring using synthetic transactions.
+- [**Brand analytics platform**](https://github.com/ptimizeroracle/brand-performance-dashboard) — a reproducible pipeline connecting data normalization, dimensional modeling and an interactive dashboard.
+
+These are standalone demonstrations. Client systems and proprietary code remain private.
+
+</details>
 
 ## Tools I work with
 
@@ -71,7 +72,7 @@ I connect business use cases with the engineering needed to run them: model sele
 
 ## Architecture & writing
 
-I publish architecture explanations, engineering case studies and controlled experiments. Laboratory results are labeled separately from professional production experience.
+I write about architecture decisions, production constraints and controlled experiments in LLM and agentic systems. Each case study identifies its scope and evidence.
 
 - [**Interactive platform architecture**](https://atiklhy.fr/en/architecture/#architecture-map) — explore the layers and the review question behind each block.
 - [**Engineering articles**](https://atiklhy.fr/en/articles/) — LLM platforms, agent execution, evaluation and operational controls.
@@ -80,8 +81,9 @@ I publish architecture explanations, engineering case studies and controlled exp
 ---
 
 <p align="center">
-  <b>Building an LLM platform or bringing an AI workflow into production?</b><br/><br/>
-  <a href="https://cal.com/binblok/30min">Let's discuss your project →</a>
+  <b>Need architecture and engineering leadership for an enterprise AI platform?</b><br/><br/>
+  <a href="https://cal.com/binblok/30min">Let's discuss your project →</a><br/><br/>
+  <sub>Paris, France · English &amp; French</sub>
 </p>
 
 <p align="center">

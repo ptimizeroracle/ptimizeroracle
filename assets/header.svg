@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
 <title id="title">Atik Lahiyane — AI Platform and Solutions Architect</title>
-<desc id="desc">LLM platforms, agentic workflows and data engineering, on a blue and violet gradient.</desc>
+<desc id="desc">Enterprise delivery, technical leadership and critical systems, on a blue and violet gradient.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102645"/><stop offset=".6" stop-color="#174d77"/><stop offset="1" stop-color="#5945a1"/></linearGradient>
   <linearGradient id="line"><stop stop-color="#60d8ec"/><stop offset="1" stop-color="#b7a2ff"/></linearGradient>
@@ -18,10 +18,10 @@
 <circle class="pulse" cx="875" cy="96" r="93" fill="none" stroke="#bca9ff" stroke-width="2"/>
 <circle cx="875" cy="3" r="5" fill="#89e9ec"/>
 <circle cx="968" cy="96" r="5" fill="#c2b4ff"/>
-<text x="60" y="61" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" fill="#a8d7ef">DATA · MODELS · SYSTEMS</text>
+<text x="60" y="61" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3" fill="#a8d7ef">ENTERPRISE AI · DATA PLATFORMS</text>
 <text x="58" y="126" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" letter-spacing="-1" fill="#fff">Atik Lahiyane</text>
 <text x="60" y="169" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#e2eaf9">AI Platform &amp; Solutions Architect</text>
 <path d="M60 197h620" stroke="url(#line)" stroke-width="2"/>
-<text x="60" y="229" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#cbdced">LLM platforms · Agentic workflows · Data engineering</text>
+<text x="60" y="229" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#cbdced">Enterprise delivery · Technical leadership · Critical systems</text>
 <path d="M0 267C200 242 290 308 490 279S786 257 1000 273V300H0Z" fill="#94b4fa" opacity=".12"/>
 </svg>
