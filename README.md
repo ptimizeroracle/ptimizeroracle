@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Atik Lahiyane — AI Platform and Solutions Architect. Enterprise delivery, technical leadership and critical systems." />
+  <img src="./assets/header.svg" width="100%" alt="Atik L. — AI Platform and Solutions Architect. Enterprise delivery, technical leadership and critical systems." />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## Enterprise AI & data architecture
 
-I'm **Atik Lahiyane**, an **AI Platform & Solutions Architect** with **10+ years delivering data platforms and leading engineering work for major enterprises in banking, insurance and energy**.
+I'm **Atik L.**, an **AI Platform & Solutions Architect** with **10+ years delivering data platforms and leading engineering work for major enterprises in banking, insurance and energy**.
 
 My experience spans payment processing, financial crime controls, actuarial reporting and electricity consumption data. I bring that production background to enterprise AI: connecting business requirements with architecture decisions, implementation and the realities of operating a shared service.
 
