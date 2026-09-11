@@ -57,17 +57,73 @@ These are standalone demonstrations. Client systems and proprietary code remain 
 
 </details>
 
-## Tools I work with
+## Technology stack
+
+Selected technologies across enterprise delivery and independent engineering.
+
+### LLM inference & model access
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/vLLM-2563EB?style=flat-square" alt="vLLM" height="24" />
+  <img src="https://img.shields.io/badge/SGLang-7C3AED?style=flat-square" alt="SGLang" height="24" />
+  <img src="https://img.shields.io/badge/Infinity-0891B2?style=flat-square" alt="Infinity" height="24" />
+  <img src="https://img.shields.io/badge/LiteLLM-111827?style=flat-square" alt="LiteLLM" height="24" />
+</p>
+
+Azure OpenAI · Model routing · Embeddings & reranking
+
+### Agentic systems & retrieval
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&amp;logo=langgraph&amp;logoColor=white" alt="LangGraph" height="24" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain" height="24" />
+  <img src="https://img.shields.io/badge/MCP-4338CA?style=flat-square" alt="MCP" height="24" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&amp;logo=pydantic&amp;logoColor=white" alt="Pydantic" height="24" />
+</p>
+
+Weaviate · Elasticsearch · Tool integration · Structured outputs
+
+### Data platforms & distributed processing
+
+<p>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&amp;logo=databricks&amp;logoColor=white" alt="Databricks" height="24" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&amp;logo=apachespark&amp;logoColor=white" alt="Apache Spark" height="24" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Apache Kafka" height="24" />
+  <img src="https://img.shields.io/badge/Cloudera-F96702?style=flat-square&amp;logo=cloudera&amp;logoColor=white" alt="Cloudera" height="24" />
+  <img src="https://img.shields.io/badge/Apache%20NiFi-017081?style=flat-square&amp;logo=apachenifi&amp;logoColor=white" alt="Apache NiFi" height="24" />
+</p>
+
+Hive · HBase · MapR · Dremio · dbt · Polars
+
+### Evaluation & observability
+
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&amp;logo=mlflow&amp;logoColor=white" alt="MLflow" height="24" />
+  <img src="https://img.shields.io/badge/Langfuse-18181B?style=flat-square" alt="Langfuse" height="24" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&amp;logo=prometheus&amp;logoColor=white" alt="Prometheus" height="24" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&amp;logo=grafana&amp;logoColor=white" alt="Grafana" height="24" />
+</p>
+
+OpenTelemetry · RAGAS · Deequ · Production monitoring
+
+### Cloud & platform engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" height="24" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" height="24" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" height="24" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" height="24" />
+</p>
+
+Domino Data Lab · Linux · Azure DevOps · Git
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" height="24" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL" height="24" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&amp;logo=scala&amp;logoColor=white" alt="Scala" height="24" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java" height="24" />
 </p>
 
 ## Architecture & writing
