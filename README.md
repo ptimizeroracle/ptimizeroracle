@@ -8,15 +8,15 @@ AI Platform & Solutions Architect working on LLM platforms, inference and agenti
 
 - **[Ondine](https://github.com/ptimizeroracle/ondine)** — Maintainer · LLM enrichment for tabular data, with checkpointing, validation and budget controls.
 
-### Selected contributions
+### Open-source contributions
 
-- **[Narwhals](https://github.com/narwhals-dev/narwhals/pull/3925)** — Merged · Fix PyArrow string-trimming semantics.
-- **[vLLM](https://github.com/vllm-project/vllm/pull/56480)** — Open · Fix leading-stride handling in SM100 FP8 kernels.
-- **[SGLang](https://github.com/sgl-project/sglang/pull/37973)** — Open · Test serving-benchmark timing accounting.
-- **[Hermes Agent](https://github.com/NousResearch/hermes-agent/pull/107379)** — Open · Recover plugin discovery after dependency installation.
-- **[OpenLineage](https://github.com/OpenLineage/OpenLineage/pull/4942)** — Open · Correct date, timestamp and UUID serialization.
+Pull requests and issue reports:
 
-[All upstream PRs →](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Aptimizeroracle+-user%3Aptimizeroracle&type=pullrequests) · <sub>Status checked September 12, 2026.</sub>
+[vLLM](https://github.com/vllm-project/vllm/pulls?q=author%3Aptimizeroracle) · [SGLang](https://github.com/sgl-project/sglang/pulls?q=author%3Aptimizeroracle) · [Microsoft Agent Framework](https://github.com/microsoft/agent-framework/pulls?q=author%3Aptimizeroracle) · [Cognee](https://github.com/topoteretes/cognee/pulls?q=author%3Aptimizeroracle) · [Hermes Agent](https://github.com/NousResearch/hermes-agent/pulls?q=author%3Aptimizeroracle)
+
+[LangGraph](https://github.com/langchain-ai/langgraph/issues?q=author%3Aptimizeroracle) · [Pydantic AI](https://github.com/pydantic/pydantic-ai/pulls?q=author%3Aptimizeroracle) · [OpenLineage](https://github.com/OpenLineage/OpenLineage/pulls?q=author%3Aptimizeroracle) · [Narwhals](https://github.com/narwhals-dev/narwhals/pulls?q=author%3Aptimizeroracle)
+
+[Dagster](https://github.com/dagster-io/dagster/pulls?q=author%3Aptimizeroracle) · [Ibis](https://github.com/ibis-project/ibis/pulls?q=author%3Aptimizeroracle) · [SQLMesh](https://github.com/SQLMesh/sqlmesh/pulls?q=author%3Aptimizeroracle) · [Apache Iceberg (Python)](https://github.com/apache/iceberg-python/pulls?q=author%3Aptimizeroracle) · [entsoe-py](https://github.com/EnergieID/entsoe-py/pulls?q=author%3Aptimizeroracle)
 
 ### Stack
 
