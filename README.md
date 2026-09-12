@@ -1,6 +1,6 @@
 ## Hi, I'm Atik L.
 
-Building LLM platforms and agentic systems.
+Building AI platforms and agentic systems.
 
 [Portfolio](https://atiklhy.fr/en/) · [Writing](https://atiklhy.fr/en/articles/) · [LinkedIn](https://www.linkedin.com/in/atik-l-0454b0b9) · [Email](mailto:contact@binblok.com)
 
