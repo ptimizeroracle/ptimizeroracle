@@ -29,7 +29,7 @@ I combine architecture, technical leadership and hands-on engineering to connect
 
 ## Open-source engineering
 
-### [Ondine](https://github.com/ptimizeroracle/ondine)
+### Maintainer · [Ondine](https://github.com/ptimizeroracle/ondine)
 
 **An engine for enriching tabular data with LLMs.** Turn prompts into structured columns, with schema validation, checkpointing, budget limits and cost tracking.
 
@@ -44,6 +44,18 @@ I combine architecture, technical leadership and hands-on engineering to connect
 These are standalone demonstrations. Client systems and proprietary code remain private.
 
 </details>
+
+### Selected upstream contributions
+
+| Project | Contribution | PR status |
+| :--- | :--- | :--- |
+| **Narwhals** | Fix empty-string trimming semantics on the PyArrow backend. | [Merged · #3925](https://github.com/narwhals-dev/narwhals/pull/3925) |
+| **vLLM** | Fix leading-stride handling in SM100 FP8 matrix multiplication. | [Open · #56480](https://github.com/vllm-project/vllm/pull/56480) |
+| **SGLang** | Add deterministic tests for serving-benchmark timing accounting. | [Open · #37973](https://github.com/sgl-project/sglang/pull/37973) |
+| **Hermes Agent** | Restore plugin discovery after a missing dependency is installed. | [Open · #107379](https://github.com/NousResearch/hermes-agent/pull/107379) |
+| **OpenLineage** | Serialize dates, timestamps and UUIDs without placeholder values. | [Open · #4942](https://github.com/OpenLineage/OpenLineage/pull/4942) |
+
+<sub>Status checked September 12, 2026.</sub> [More upstream PRs →](https://github.com/search?q=is%3Apr+is%3Apublic+author%3Aptimizeroracle+-user%3Aptimizeroracle&type=pullrequests)
 
 ## Technology stack
 
