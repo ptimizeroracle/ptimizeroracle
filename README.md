@@ -1,6 +1,6 @@
 ## Hi, I'm Atik L.
 
-AI Platform & Solutions Architect working on LLM platforms, inference and agentic workflows, with 10+ years of enterprise data engineering and technical leadership.
+AI architect building LLM platforms and agentic systems.
 
 [Portfolio](https://atiklhy.fr/en/) · [Writing](https://atiklhy.fr/en/articles/) · [LinkedIn](https://www.linkedin.com/in/atik-l-0454b0b9) · [Email](mailto:contact@binblok.com)
 
