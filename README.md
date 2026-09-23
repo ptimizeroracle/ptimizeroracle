@@ -1,4 +1,4 @@
-## Hi, I'm Atik L.
+## Hi, I'm Atik
 
 Building AI platforms and agentic systems.
 
