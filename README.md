@@ -12,11 +12,13 @@ Building AI platforms and agentic systems.
 
 Pull requests and issue reports:
 
-[vLLM](https://github.com/vllm-project/vllm/pulls?q=author%3Aptimizeroracle) · [SGLang](https://github.com/sgl-project/sglang/pulls?q=author%3Aptimizeroracle) · [Microsoft Agent Framework](https://github.com/microsoft/agent-framework/pulls?q=author%3Aptimizeroracle) · [Cognee](https://github.com/topoteretes/cognee/pulls?q=author%3Aptimizeroracle) · [Hermes Agent](https://github.com/NousResearch/hermes-agent/pulls?q=author%3Aptimizeroracle)
+[llm-d Router](https://github.com/llm-d/llm-d-router/pulls?q=author%3Aptimizeroracle) · [vLLM](https://github.com/vllm-project/vllm/pulls?q=author%3Aptimizeroracle) · [SGLang](https://github.com/sgl-project/sglang/pulls?q=author%3Aptimizeroracle) · [TPU Inference](https://github.com/vllm-project/tpu-inference/pulls?q=author%3Aptimizeroracle)
 
-[LangGraph](https://github.com/langchain-ai/langgraph/issues?q=author%3Aptimizeroracle) · [Pydantic AI](https://github.com/pydantic/pydantic-ai/pulls?q=author%3Aptimizeroracle) · [OpenLineage](https://github.com/OpenLineage/OpenLineage/pulls?q=author%3Aptimizeroracle) · [Narwhals](https://github.com/narwhals-dev/narwhals/pulls?q=author%3Aptimizeroracle)
+[Microsoft Agent Framework](https://github.com/microsoft/agent-framework/pulls?q=author%3Aptimizeroracle) · [LangGraph](https://github.com/langchain-ai/langgraph/issues?q=author%3Aptimizeroracle) · [Pydantic AI](https://github.com/pydantic/pydantic-ai/pulls?q=author%3Aptimizeroracle) · [Cognee](https://github.com/topoteretes/cognee/pulls?q=author%3Aptimizeroracle) · [Hermes Agent](https://github.com/NousResearch/hermes-agent/pulls?q=author%3Aptimizeroracle) · [OpenViking](https://github.com/volcengine/OpenViking/pulls?q=author%3Aptimizeroracle)
 
-[Dagster](https://github.com/dagster-io/dagster/pulls?q=author%3Aptimizeroracle) · [Ibis](https://github.com/ibis-project/ibis/pulls?q=author%3Aptimizeroracle) · [SQLMesh](https://github.com/SQLMesh/sqlmesh/pulls?q=author%3Aptimizeroracle) · [Apache Iceberg (Python)](https://github.com/apache/iceberg-python/pulls?q=author%3Aptimizeroracle) · [entsoe-py](https://github.com/EnergieID/entsoe-py/pulls?q=author%3Aptimizeroracle)
+[OpenLineage](https://github.com/OpenLineage/OpenLineage/pulls?q=author%3Aptimizeroracle) · [Narwhals](https://github.com/narwhals-dev/narwhals/pulls?q=author%3Aptimizeroracle) · [Great Expectations](https://github.com/fivetran/great_expectations/pulls?q=author%3Aptimizeroracle) · [SQLGlot](https://github.com/tobymao/sqlglot/pulls?q=author%3Aptimizeroracle) · [Dagster](https://github.com/dagster-io/dagster/pulls?q=author%3Aptimizeroracle)
+
+[Ibis](https://github.com/ibis-project/ibis/pulls?q=author%3Aptimizeroracle) · [SQLMesh](https://github.com/SQLMesh/sqlmesh/pulls?q=author%3Aptimizeroracle) · [Apache Iceberg (Python)](https://github.com/apache/iceberg-python/pulls?q=author%3Aptimizeroracle) · [entsoe-py](https://github.com/EnergieID/entsoe-py/pulls?q=author%3Aptimizeroracle)
 
 ### Stack
 
