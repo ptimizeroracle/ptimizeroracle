@@ -1,6 +1,6 @@
 ## Atik
 
-I build and run LLM platforms: gateways, inference routing, serving on Kubernetes, agents on top.
+Data engineer turned LLM platform builder: gateways, inference routing, serving on Kubernetes, agents on top.
 When something I run misbehaves, I reproduce it, measure it, and send the fix upstream.
 
 [atiklhy.fr](https://atiklhy.fr/en/) · [writing](https://atiklhy.fr/en/articles/) · [linkedin](https://www.linkedin.com/in/atik-l-0454b0b9) · [email](mailto:contact@binblok.com)
@@ -21,4 +21,8 @@ When something I run misbehaves, I reproduce it, measure it, and send the fix up
 
 ### Mostly
 
-Python and Go. vLLM, Kubernetes, Envoy, LangGraph. Queueing theory when the numbers stop making sense.
+- **Data**: where I come from. Spark, Kafka, Databricks, dbt, Polars, and the Hadoop era before that.
+- **Inference**: vLLM, SGLang, LiteLLM, Kubernetes. Queueing theory when the numbers stop making sense.
+- **Agents**: LangGraph, MCP, evals and tracing. Also Vauban, a reference LLM platform and agent lab I am building as a course: 65 controls, every claim tagged measured or gap. Private for now.
+
+Python, SQL, Go.
