@@ -1,30 +1,24 @@
-## Hi, I'm Atik
+## Atik
 
-Building AI platforms and agentic systems.
+I build and run LLM platforms: gateways, inference routing, serving on Kubernetes, agents on top.
+When something I run misbehaves, I reproduce it, measure it, and send the fix upstream.
 
-[Portfolio](https://atiklhy.fr/en/) · [Writing](https://atiklhy.fr/en/articles/) · [LinkedIn](https://www.linkedin.com/in/atik-l-0454b0b9) · [Email](mailto:contact@binblok.com)
+[atiklhy.fr](https://atiklhy.fr/en/) · [writing](https://atiklhy.fr/en/articles/) · [linkedin](https://www.linkedin.com/in/atik-l-0454b0b9) · [email](mailto:contact@binblok.com)
 
-### Open source
+### Mine
 
-- **[Ondine](https://github.com/ptimizeroracle/ondine)** — Maintainer · LLM enrichment for tabular data, with checkpointing, validation and budget controls.
+- **[Ondine](https://github.com/ptimizeroracle/ondine)**: batch LLM processing for tabular data. Checkpointing, budgets, 100+ providers.
 
-### Open-source contributions
+### Merged upstream
 
-Pull requests and issue reports:
+- [llm-d-router](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+is%3Amerged+author%3Aptimizeroracle) and [llm-d](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+is%3Amerged+author%3Aptimizeroracle): inference scheduling on Kubernetes
+- [AIBrix](https://github.com/vllm-project/aibrix/pulls?q=is%3Apr+is%3Amerged+author%3Aptimizeroracle): LLM gateway
+- [Narwhals](https://github.com/narwhals-dev/narwhals/pulls?q=is%3Apr+is%3Amerged+author%3Aptimizeroracle), [Great Expectations](https://github.com/fivetran/great_expectations/pulls?q=is%3Apr+is%3Amerged+author%3Aptimizeroracle), [Cognee](https://github.com/topoteretes/cognee/pulls?q=is%3Apr+is%3Amerged+author%3Aptimizeroracle), [OpenLineage](https://github.com/OpenLineage/OpenLineage/pulls?q=is%3Apr+is%3Amerged+author%3Aptimizeroracle): data and agent memory
 
-[llm-d Router](https://github.com/llm-d/llm-d-router/pulls?q=author%3Aptimizeroracle) · [vLLM](https://github.com/vllm-project/vllm/pulls?q=author%3Aptimizeroracle) · [SGLang](https://github.com/sgl-project/sglang/pulls?q=author%3Aptimizeroracle) · [TPU Inference](https://github.com/vllm-project/tpu-inference/pulls?q=author%3Aptimizeroracle)
+### In review
 
-[Microsoft Agent Framework](https://github.com/microsoft/agent-framework/pulls?q=author%3Aptimizeroracle) · [LangGraph](https://github.com/langchain-ai/langgraph/issues?q=author%3Aptimizeroracle) · [Pydantic AI](https://github.com/pydantic/pydantic-ai/pulls?q=author%3Aptimizeroracle) · [Cognee](https://github.com/topoteretes/cognee/pulls?q=author%3Aptimizeroracle) · [Hermes Agent](https://github.com/NousResearch/hermes-agent/pulls?q=author%3Aptimizeroracle) · [OpenViking](https://github.com/volcengine/OpenViking/pulls?q=author%3Aptimizeroracle)
+- [llm-d-router#3379](https://github.com/llm-d/llm-d-router/pull/3379): a pod that had never served a request got no traffic, so it never reported, so it stayed idle. Reproduced on a bench, then confirmed by the reporter on 4 x H100: idle pod in 10 of 12 runs before, 0 of 12 after.
 
-[OpenLineage](https://github.com/OpenLineage/OpenLineage/pulls?q=author%3Aptimizeroracle) · [Narwhals](https://github.com/narwhals-dev/narwhals/pulls?q=author%3Aptimizeroracle) · [Great Expectations](https://github.com/fivetran/great_expectations/pulls?q=author%3Aptimizeroracle) · [SQLGlot](https://github.com/tobymao/sqlglot/pulls?q=author%3Aptimizeroracle) · [Dagster](https://github.com/dagster-io/dagster/pulls?q=author%3Aptimizeroracle)
+### Mostly
 
-[Ibis](https://github.com/ibis-project/ibis/pulls?q=author%3Aptimizeroracle) · [SQLMesh](https://github.com/SQLMesh/sqlmesh/pulls?q=author%3Aptimizeroracle) · [Apache Iceberg (Python)](https://github.com/apache/iceberg-python/pulls?q=author%3Aptimizeroracle) · [entsoe-py](https://github.com/EnergieID/entsoe-py/pulls?q=author%3Aptimizeroracle)
-
-### Stack
-
-- **Inference:** vLLM · SGLang · Infinity · LiteLLM · Azure OpenAI
-- **Agents & retrieval:** LangGraph · LangChain · MCP · Pydantic · Weaviate · Elasticsearch
-- **Data:** Databricks · Spark · Kafka · Cloudera · NiFi · Hive · HBase · MapR · Dremio · dbt · Polars
-- **Evaluation & observability:** MLflow · Langfuse · OpenTelemetry · RAGAS · Prometheus · Grafana · Deequ
-- **Platforms:** Kubernetes · Docker · AWS · Azure · Domino Data Lab · Linux · Azure DevOps · Git
-- **Languages:** Python · SQL · Scala · Java
+Python and Go. vLLM, Kubernetes, Envoy, LangGraph. Queueing theory when the numbers stop making sense.
