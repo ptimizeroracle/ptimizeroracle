@@ -18,7 +18,6 @@ I built data platforms, now LLM platforms: gateways, inference routing, serving 
 
 - [llm-d-router#3379](https://github.com/llm-d/llm-d-router/pull/3379), merged: a pod that had never served a request got no traffic, so it never reported, so it stayed idle. Reproduced on a bench, then confirmed by the reporter on 4 x H100: idle pod in 10 of 12 runs before, 0 of 12 after.
 - [aibrix#3297](https://github.com/vllm-project/aibrix/issues/3297), fixed: least-latency routing scored a pod by its lifetime mean, so a pod that slowed down kept winning for a time that grows with its uptime. I measured the lag and derived when the choice flips; the fix now scores the last minute.
-
 - [llm-d-router#3814](https://github.com/llm-d/llm-d-router/pull/3814), merged: the chart cut release and namespace to 40 characters each, so two namespaces with the same prefix got one cluster-wide RBAC name, and long names rendered invalid YAML. It was why a llm-d nightly failed. Now unique, with a regression test in the chart checks.
 
 ### Mostly
