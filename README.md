@@ -1,6 +1,6 @@
 ## Atik
 
-I built data platforms, then LLM platforms: gateways, inference routing, serving on Kubernetes, agents on top. Now agents build them with me: a software factory where agent teams write the code and humans decide what ships.
+I built data platforms, now agentic platforms. Focus: software factories as a service, agent permissions, retrieval, proactive actions, and human-in-the-loop orchestration.
 
 [atiklhy.fr](https://atiklhy.fr/en/) · [writing](https://atiklhy.fr/en/articles/) · [linkedin](https://www.linkedin.com/in/atik-l-0454b0b9) · [email](mailto:contact@binblok.com)
 
