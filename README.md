@@ -1,8 +1,6 @@
 ## Atik
 
-I built data platforms, now LLM platforms: gateways, inference routing, serving on Kubernetes, agents on top.
-
-Beyond copilots: a software factory where agent teams build and humans decide what ships.
+I built data platforms, then LLM platforms: gateways, inference routing, serving on Kubernetes, agents on top. Now agents build them with me: a software factory where agent teams write the code and humans decide what ships.
 
 [atiklhy.fr](https://atiklhy.fr/en/) · [writing](https://atiklhy.fr/en/articles/) · [linkedin](https://www.linkedin.com/in/atik-l-0454b0b9) · [email](mailto:contact@binblok.com)
 
