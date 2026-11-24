@@ -20,10 +20,4 @@ I built data platforms, now agentic platforms. Focus: software factories as a se
 - [llm-d-router#1598](https://github.com/llm-d/llm-d-router/issues/1598#issuecomment-6884182944): compared 8 pickers under bursty and prefix-heavy load. None wins both. [Bench and data](https://gist.github.com/ptimizeroracle/889180eb1997e082a81aae8b25d5a78c).
 - [aibrix#3297](https://github.com/vllm-project/aibrix/issues/3297): least-latency routing scored a pod by its lifetime mean, so a pod that slowed down kept winning. The fix now scores the last minute.
 
-### Mostly
-
-- **Data**: where I come from. Spark, Kafka, Databricks, dbt, Polars.
-- **Inference**: vLLM, LiteLLM, Kubernetes. Queueing theory when the numbers stop making sense.
-- **Agents**: LangGraph, MCP, evals and tracing. Also Vauban, a reference architecture for LLM and agent platforms in regulated environments. Private for now.
-
 Python, SQL, Go.
